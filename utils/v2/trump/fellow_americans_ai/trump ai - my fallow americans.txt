@@ -1,0 +1,29 @@
+trump ai - my fallow americans
+
+My fellow Americans, our movement is far from over. In fact, our fight has only just begun.
+
+
+my fallow americans
+max pitch: 169.09
+min pitch: 89.60
+
+max intensity: 75.02
+min intensity: 39.64
+
+
+our movement is far from over
+max pitch: 153.53
+min pitc: 90.92
+
+max intensity: 74.29
+min intensity: 43.76
+
+
+In fact our fight has only just begun:
+
+In fact :
+max pitch: 155.91
+min pitch: 87.84
+
+max intensity: 73.97
+min intensity: 40.86

@@ -1,0 +1,26 @@
+trump org - i am not worried
+
+I am not worried 'bout no I am not worried about it
+
+
+first: I am not worried 'bout no
+max pitch: 478.22
+min pitc: 89.90
+
+max intensity: 73.03
+min intensity: 45.16
+
+
+second: I am not worried about it
+max pitch: 122.84
+min pitc: 84.98
+
+max intensity: 68.19
+min intensity: 42.33
+
+I am not worried: 
+max pitch: 478.22
+min pitc: 89.90
+
+max intensity: 73.03
+min intensity: 45.16

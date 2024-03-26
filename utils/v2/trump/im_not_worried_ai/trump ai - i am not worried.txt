@@ -1,0 +1,26 @@
+trump ai - i am not worried
+
+I am not worried 'bout no I am not worried about it
+
+
+first: I am not worried 'bout no
+max pitch: 438.00
+min pitc: 113.11
+
+max intensity: 75.54
+min intensity: 43.65
+
+
+second: I am not worried about it
+max pitch: 147.12
+min pitc: 105.34
+
+max intensity: 73.61
+min intensity: 36.83
+
+I am not worried: 
+max pitch: 438.00
+min pitc: 127.36
+
+max intensity: 75.27
+min intensity: 51.47
