@@ -1,0 +1,21 @@
+musk org - are you good at yor job
+
+Are you good at yor job?
+
+
+first: Are you good
+max pitch: 92.6927995597766 Hz (maximum pitch in SELECTION)
+min pitch: 76.47963861319768 Hz (minimum pitch in SELECTION)
+
+
+max intensity: 82.73010863790516 dB (maximum intensity in SELECTION)
+min intensity: 40.57210477279571 dB (minimum intensity in SELECTION)
+
+
+
+second: At your job
+max pitch: 103.53632200478076 Hz (maximum pitch in SELECTION)
+min pitch: 82.72259365779927 Hz (minimum pitch in SELECTION)
+
+max intensity: 78.50976455913164 dB (maximum intensity in SELECTION) 
+min intensity: 57.33218529798247 dB (minimum intensity in SELECTION)

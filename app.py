@@ -851,9 +851,38 @@ with c0:
 c0 = st.columns(1)[0]
 
 with c0:
+    st.header("Pitch and Intensity Variation:")
+    st.subheader("Reference Point:")
+    st.write("In 'Speech and Language Processing,' Jurafsky & Martin likely discuss the importance of pitch and intensity variations in conveying meaning and emotion in speech.")
+    st.subheader("Connection:")
+    st.write("Your analysis indicates that Trump's original recordings exhibit more natural fluctuations in pitch and nuanced variations in loudness compared to AI-generated and fake AI data. This aligns with the understanding that human speech is characterized by dynamic variations in pitch and intensity, which contribute to its expressiveness.")
+
+    st.header("Accuracy of AI Replication:")
+    st.subheader("Reference Point:")
+    st.write("The paper may discuss the challenges and limitations of AI in accurately replicating human speech patterns and nuances.")
+    st.subheader("Connection:")
+    st.write("Your analysis suggests that while AI can mimic certain aspects of Trump's voice, it often falls short in capturing the full spectrum of pitch and intensity found in his original recordings. This aligns with the challenges discussed in the literature regarding the fidelity of AI-generated speech compared to human speech.")
+
+    st.header("Quality Assessment:")
+    st.subheader("Reference Point:")
+    st.write("Jurafsky & Martin might address the quality assessment of synthesized speech and the criteria for evaluating its fidelity to human speech.")
+    st.subheader("Connection:")
+    st.write("Your analysis highlights that while AI-generated data may resemble Trump's voice to some extent, it lacks the depth and richness of the original recordings. This parallels the quality assessment discussed in the literature, emphasizing the importance of capturing nuances and subtleties in synthesized speech to achieve authenticity.")
+
+    st.header("Implications and Challenges:")
+    st.subheader("Reference Point:")
+    st.write("The paper likely discusses the broader implications and challenges of using AI technology for speech synthesis.")
+    st.subheader("Connection:")
+    st.write("Your conclusion emphasizes the persisting challenges in achieving a faithful replication of human voice through AI technology, particularly in capturing the intricacies of vocal expression. This reflects the broader discussion in the literature about understanding the limitations of AI-generated speech and the ongoing efforts to improve its quality and realism.")
+
+
+c0 = st.columns(1)[0]
+
+with c0:
     st.title("References:")
     st.write("Academic Papers:")
     st.write("Title: \"Voice Conversion and its Application to Speech Synthesis\" by Toda, T., Black, A. W., & Tokuda, K. (2007).")
-    st.write("Title: \"Analysis of Emotional Speech: A Review\" by Schuller, B., Batliner, A., Steidl, S., & Seppi, D. (2011).")
-    st.write("AI Voice Generator: https://www.tryparrotai.com/ai-voice-generator/")
+    st.write("Title: \"Speech and Language Processing. Daniel Jurafsky & James H. Martin\"")
+    st.write("Parrot AI Voice Generator: https://www.tryparrotai.com/ai-voice-generator/")
+    st.write("fake you AI Voice Generator: https://www.fakeyou.com/")
     st.write("Dependencies: streamlit, pandas, matplotlib.")

@@ -1,0 +1,19 @@
+musk org - do you work hard
+
+
+first: do you work
+max pitch: 94.95932785542458 Hz (maximum pitch in SELECTION)
+min pitc: 76.35440868629672 Hz (minimum pitch in SELECTION)
+
+max intensity: 79.50388036858476 dB (maximum intensity in SELECTION)
+min intensity: 50.49238202570742 dB (minimum intensity in SELECTION
+
+
+second: hard
+max pitch: 97.57581102782237 Hz (maximum pitch in SELECTION)
+min pitc: 89.00007208993269 Hz (minimum pitch in SELECTION)
+
+max intensity: 75.62578347133136 dB (maximum intensity in SELECTION)
+min intensity: 44.43458320297458 dB (minimum intensity in SELECTION)
+
+

@@ -1,0 +1,24 @@
+musk org - nothing more
+
+
+first: nothing
+max pitch: 108.10053016892873 Hz (maximum pitch in SELECTION)
+min pitc: 89.51190979380704 Hz (minimum pitch in SELECTION)
+
+
+max intensity: 80.79336311892084 dB (maximum intensity in SELECTION)
+min intensity: 59.31411621752426 dB (minimum intensity in SELECTION)
+
+
+
+second: more
+max pitch: 89.51190979380704 Hz (maximum pitch in SELECTION)
+min pitc: 75.61247960903005 Hz (minimum pitch in SELECTION)
+
+
+max intensity: 73.23358884493888 dB (maximum intensity in SELECTION)
+min intensity: 45.75954603817774 dB (minimum intensity in SELECTION)
+
+
+
+
